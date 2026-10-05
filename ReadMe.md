@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Graduando em Análise e Desenvolvimento de Sistemas<br>🤝 Estou a procura de Estagio<br>⚡ Estudando Data Science<br>💬 Entre em contato comigo por micaelvilasverde.dev@gmail.com
+🔭 Graduado em Análise e Desenvolvimento de Sistemas<br>🤝 Estou a procura de Estagio<br>⚡ Estudando Data Science<br>💬 Entre em contato comigo por micaelvilasverde.dev@gmail.com
 
 
 ## 🌐 Socials:
